@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TfsTestCaseAccessor</id>
+    <version>$version$</version>
+    <title>TfsTestCaseAccessor</title>
+    <authors>Jake Ginnivan</authors>
+    <owners>Jake Ginnivan</owners>
+    <projectUrl>https://github.com/JakeGinnivan/TfsTestCaseAccessor</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Feches the test case which the current test is associated with. Supports all test frameworks</description>
+    <copyright>Copyright Jake Ginnivan 2013</copyright>
+    <tags>Tfs TestManager TestCase</tags>
+  </metadata>
+</package>
