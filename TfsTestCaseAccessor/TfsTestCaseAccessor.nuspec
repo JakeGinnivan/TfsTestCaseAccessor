@@ -12,4 +12,8 @@
     <copyright>Copyright Jake Ginnivan 2013</copyright>
     <tags>Tfs TestManager TestCase</tags>
   </metadata>
+  <files>
+    <file src="bin\$configuration$\TfsTestCaseAccessor.dll" target="lib\net40\" />
+    <file src="bin\$configuration$\TfsTestCaseAccessor.pdb" target="lib\net40\" />
+  </files>
 </package>
